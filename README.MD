@@ -12,6 +12,10 @@ This app helps users organize their daily tasks by adding, editing, completing, 
 - 🎨 Clean UI with SCSS styling  
 - 📱 Fully responsive design  
 
+##📸 Screenshot
+![to-do-list-image](to-do-list.png)
+
+
 ## 🛠️ Technologies Used
 
 - **HTML5** – Structure of the app  
