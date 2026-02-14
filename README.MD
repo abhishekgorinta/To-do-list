@@ -41,7 +41,7 @@ ToDo-List-App/
 1. Clone the repository  
 ```bash
 git clone https://github.com/abhishekgorinta/to-do-list.git
-
+```
 2. Navigate to the project folder
 
     cd todo-list-app
@@ -49,5 +49,14 @@ git clone https://github.com/abhishekgorinta/to-do-list.git
 
 3. Open index.html in your browser
    OR use Live Server in VS Code.
+## 👨‍💻 Author:
 
+Developed by Abhishek Gorinta
+
+
+## License:
+
+This project is free to use and modify for learning purposes.
+
+⭐ If you like this project, don't forget to give it a star on GitHub!
 
